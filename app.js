@@ -40,15 +40,12 @@ qsa('.slider').forEach(slider=>{
 
 // Catalog data
 const products = [
-  {id:'cat-fox', name:'Keychain Hewan Rubah', cat:'Keychain hewan', price:35000, img:'assets/images/cat-hewan.svg', stock:10, rating:4.7},
-  {id:'cat-bear', name:'Keychain Hewan Beruang', cat:'Keychain hewan', price:32000, img:'assets/images/cat-hewan.svg', stock:0, rating:4.5},
-  {id:'fruit-apple', name:'Keychain Buah Apel', cat:'Keychain berbentuk buah', price:30000, img:'assets/images/cat-buah.svg', stock:8, rating:4.4},
-  {id:'logo-kpop', name:'Keychain Logo K‑Pop', cat:'Keychain logo kpop', price:45000, img:'assets/images/cat-logo-kpop.svg', stock:5, rating:4.8},
-  {id:'custom-text', name:'Keychain Custom Nama', cat:'Keychain custom', price:55000, img:'assets/images/cat-custom.svg', stock:20, rating:4.6},
-  {id:'kpop-lightstick', name:'Keychain K‑Pop Lightstick', cat:'Keychain kpop', price:42000, img:'assets/images/cat-kpop.svg', stock:12, rating:4.3},
-  {id:'skz-chan', name:'Keychain Stray Kids', cat:'Keychain stray kids', price:48000, img:'assets/images/cat-stray-kids.svg', stock:6, rating:4.9},
-  {id:'album-mini', name:'Keychain Album Mini', cat:'Keychain album', price:39000, img:'assets/images/cat-album.svg', stock:3, rating:4.2},
-  {id:'lyric-card', name:'Keychain Lirik Lagu', cat:'Keychain lirik lagu', price:36000, img:'assets/images/cat-lirik.svg', stock:9, rating:4.4},
+  {id:'cat-skzoo', name:'Keychain skzoo', cat:'Keychain hewan', price:35000, img:'assets/images/cat-hewan.svg', stock:10, rating:4.7},
+  {id:'cat-animal', name:'Keychain hewan', cat:'Keychain hewan', price:10000, img:'assets/images/cat-hewan.svg', stock:0, rating:4.5},
+  {id:'fruit', name:'Keychain buah', cat:'Keychain berbentuk buah', price:15000, img:'assets/images/cat-buah.svg', stock:8, rating:4.4},
+  {id:'custom', name:'Keychain Custom', cat:'Keychain custom', price:25000, img:'assets/images/cat-custom.svg', stock:20, rating:4.6},
+  {id:'album-mini', name:'Keychain Album Mini', cat:'Keychain album', price:18000, img:'assets/images/cat-album.svg', stock:3, rating:4.2},
+  {id:'lyric-card', name:'Keychain Lirik Lagu', cat:'Keychain lirik lagu', price:19000, img:'assets/images/cat-lirik.svg', stock:9, rating:4.4},
 ];
 
 // Search + filters
