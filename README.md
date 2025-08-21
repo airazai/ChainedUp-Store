@@ -1,1 +1,1 @@
-![alt text]assets/images/album/album_.jpg.jpg(?raw=true)
+![Alt text](images/nama-gambar.jpg)
