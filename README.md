@@ -3,5 +3,5 @@
 ![Alt text](custom.jpg)
 ![Alt text](hewan.jpg)
 ![Alt text](lirik.jpg)
-![Alt text](hewan.jpg)
+![Alt text](hewann.jpg)
 
