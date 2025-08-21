@@ -1,1 +1,1 @@
-![Alt text](images/nama-gambar.jpg)
+![Alt text](assets/images/album/album_.jpg.jpg)
