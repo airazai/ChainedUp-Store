@@ -40,12 +40,12 @@ qsa('.slider').forEach(slider=>{
 
 // Catalog data
 const products = [
-  {id:'cat-skzoo', name:'Keychain skzoo', cat:'Keychain hewan', price:35000, img:'assets/images/cat-hewan.svg', stock:10, rating:4.7},
-  {id:'cat-animal', name:'Keychain hewan', cat:'Keychain hewan', price:10000, img:'assets/images/cat-hewan.svg', stock:0, rating:4.5},
-  {id:'fruit', name:'Keychain buah', cat:'Keychain berbentuk buah', price:15000, img:'assets/images/cat-buah.svg', stock:8, rating:4.4},
-  {id:'custom', name:'Keychain Custom', cat:'Keychain custom', price:25000, img:'assets/images/cat-custom.svg', stock:20, rating:4.6},
-  {id:'album-mini', name:'Keychain Album Mini', cat:'Keychain album', price:18000, img:'assets/images/cat-album.svg', stock:3, rating:4.2},
-  {id:'lyric-card', name:'Keychain Lirik Lagu', cat:'Keychain lirik lagu', price:19000, img:'assets/images/cat-lirik.svg', stock:9, rating:4.4},
+  {id:'cat-skzoo', name:'Keychain skzoo', cat:'Keychain hewan', price:35000, img:'hewan.jpg', stock:10, rating:4.7},
+  {id:'cat-animal', name:'Keychain hewan', cat:'Keychain hewan', price:10000, img:'hewann.jpg', stock:0, rating:4.5},
+  {id:'fruit', name:'Keychain buah', cat:'Keychain berbentuk buah', price:15000, img:'buah.jpg', stock:8, rating:4.4},
+  {id:'custom', name:'Keychain Custom', cat:'Keychain custom', price:25000, img:'custom.jpg', stock:20, rating:4.6},
+  {id:'album-mini', name:'Keychain Album Mini', cat:'Keychain album', price:18000, img:'album .jpg.jpg', stock:3, rating:4.2},
+  {id:'lyric-card', name:'Keychain Lirik Lagu', cat:'Keychain lirik lagu', price:19000, img:'lirik.jpg', stock:9, rating:4.4},
 ];
 
 // Search + filters
